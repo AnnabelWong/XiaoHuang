@@ -17,7 +17,14 @@ My name is Xiao. Formerly working on process improvement and account management 
 
 I am committed to continuous learning and professional development to successfully transition into the software development field.
 
-## Download
 
-You can download the project from the following link:  
-[Download Here](https://toursnap.app/en)
+## Project Collaboration
+
+I had the opportunity to assist in this project, mainly by:  
+- Supporting frontend tasks with HTML, CSS, and JavaScript  
+- Getting exposure to REST APIs and version control (Git)  
+- Helping with small testing and troubleshooting tasks  
+
+The project is hosted on my colleague’s website.  
+👉 [Download Link](https://toursnap.app/en)
+
